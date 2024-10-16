@@ -1,4 +1,4 @@
 # apnacgc 
-THIS IS MY FIRST REPO 
+THIS IS MY FIRST REPO
 <br>
-Author - Yuvraj Golia 
+Author - Yuvraj Golia (apnacgc)
